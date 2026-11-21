@@ -1,7 +1,8 @@
-# FresherAI
+<!-- by pradeep -->
+# InterveXa
 
 <p align="center">
-  <img src="frontend/public/logo.png" alt="FresherAI logo" width="120">
+  <img src="frontend/public/logo.png" alt="InterveXa logo" width="120">
 </p>
 
 <p align="center">
@@ -10,7 +11,7 @@
 
 ## Overview
 
-FresherAI is a full-stack career preparation platform built around specialized AI agents. It combines Firebase authentication, MongoDB data storage, Redis caching, Groq-powered language models, YouTube resources, and Razorpay payments in a microservices architecture.
+InterveXa is a full-stack career preparation platform built around specialized AI agents. It combines Firebase authentication, MongoDB data storage, Redis caching, Groq-powered language models, YouTube resources, and Razorpay payments in a microservices architecture.
 
 Users can:
 
