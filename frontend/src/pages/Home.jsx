@@ -1,3 +1,4 @@
+/* by pradeep */
 import React from 'react'
 import { motion } from "motion/react"
 import { GiArtificialHive } from "react-icons/gi";
