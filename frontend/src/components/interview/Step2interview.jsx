@@ -1,3 +1,4 @@
+/* by pradeep */
 import React, { useEffect, useRef } from 'react'
 import { useState } from 'react'
 import maleVideo from "../../assets/male-ai.mp4"
