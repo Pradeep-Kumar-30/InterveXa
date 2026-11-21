@@ -1,3 +1,4 @@
+/* by pradeep */
 const hrInterviewPrompt = ({
   role,
   useResume,
