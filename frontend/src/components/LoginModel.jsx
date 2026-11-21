@@ -1,3 +1,4 @@
+/* by pradeep */
 import React from 'react'
 import { FiX } from "react-icons/fi";
 import { motion } from "motion/react"
