@@ -1,16 +1,40 @@
-# React + Vite
+# FresherAI Frontend
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This directory contains the React and Vite frontend for FresherAI.
 
-Currently, two official plugins are available:
+## Development
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Install dependencies and start the Vite development server:
 
-## React Compiler
+```powershell
+npm install
+npm run dev
+```
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+The frontend expects `frontend/.env` to contain:
 
-## Expanding the ESLint configuration
+```env
+VITE_FIREBASE_APIKEY=your_firebase_web_api_key
+VITE_RAZORPAY_KEY_ID=your_razorpay_public_key
+VITE_BACKEND_URL=http://localhost:8000
+```
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Available Scripts
+
+| Command | Purpose |
+|---|---|
+| `npm run dev` | Start the development server |
+| `npm run build` | Create the production build |
+| `npm run lint` | Run ESLint |
+| `npm run preview` | Preview the production build locally |
+
+## Main Areas
+
+- Authentication and landing experience
+- Candidate dashboard and performance charts
+- Resume analysis and resume builder
+- Interview setup, live interview flow, and reports
+- Personalized roadmap viewer
+- Razorpay billing integration
+
+See the [project README](../README.md) for the complete architecture, environment setup, backend services, API routes, and deployment guidance.
