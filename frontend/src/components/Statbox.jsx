@@ -1,3 +1,4 @@
+/* by pradeep */
 import React from 'react'
 import { motion } from "motion/react"
 function Statbox({ label, value, sub, subHighlight, index = 0 }) {
