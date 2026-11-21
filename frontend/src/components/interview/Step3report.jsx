@@ -1,3 +1,4 @@
+/* by pradeep */
 import React, { useRef } from 'react'
 import { motion } from "motion/react"
 import { FiArrowLeft, FiAward, FiCheck, FiTarget, FiTrendingUp, FiX } from 'react-icons/fi'
