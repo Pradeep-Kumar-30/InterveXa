@@ -1,3 +1,4 @@
+/* by pradeep */
 import React from 'react'
 import { AnimatePresence, motion } from "motion/react"
 import { GiArtificialHive, GiTwoCoins } from 'react-icons/gi'
