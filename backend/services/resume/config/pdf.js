@@ -1,3 +1,4 @@
+/* by pradeep */
 import fs from "fs"
 import {PDFParse} from "pdf-parse"
 const extractText =async (filePath)=>{
