@@ -1,6 +1,7 @@
-# FresherAI Frontend
+<!-- by pradeep -->
+# InterveXa Frontend
 
-This directory contains the React and Vite frontend for FresherAI.
+This directory contains the React and Vite frontend for InterveXa.
 
 ## Development
 
