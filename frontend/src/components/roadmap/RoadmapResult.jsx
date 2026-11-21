@@ -1,3 +1,4 @@
+/* by pradeep */
 import React from 'react'
 import { motion } from "motion/react";
 import { FiCheckCircle, FiClock, FiMap, FiTarget, FiX } from 'react-icons/fi';
