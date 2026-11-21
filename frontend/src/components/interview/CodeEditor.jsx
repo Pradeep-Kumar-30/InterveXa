@@ -1,3 +1,4 @@
+/* by pradeep */
 import React, { useState } from 'react'
 import { AnimatePresence, motion } from "motion/react"
 import { FiTerminal, FiX } from 'react-icons/fi'
