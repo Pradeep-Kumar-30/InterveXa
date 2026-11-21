@@ -1,3 +1,4 @@
+/* by pradeep */
 import React from 'react'
 import { FiCheck } from 'react-icons/fi'
 import { GiTwoCoins } from 'react-icons/gi'
