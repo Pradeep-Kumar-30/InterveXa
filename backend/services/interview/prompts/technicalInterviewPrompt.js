@@ -1,3 +1,4 @@
+/* by pradeep */
 const technicalInterviewPrompt = ({
   role,
   useResume,
